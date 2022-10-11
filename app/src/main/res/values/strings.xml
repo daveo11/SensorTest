@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Sensor Test</string>
+    <string name="sensor_list">List of available sensors</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="vendor">Vendor</string>
+    <string name="type">Type</string>
+    <string name="version">Version</string>
+    <string name="reporting_mode">Report Mode</string>
+    <string name="is_wake_up_sensor">Wakeup?</string>
+    <string name="is_dynamic_sensor">Dynamic?</string>
+    <string name="max_range">Max Range</string>
+    <string name="resolution">Resolution</string>
+    <string name="power">Power</string>
+    <string name="delay">Delay Range</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="timestamp">Timestamp</string>
+    <string name="values">Values</string>
+    <string name="number_description">%1$d %2$s</string>
+    <string name="float_unit">%1$g %2$s</string>
+    <string name="int_unit">%1$d %2$s</string>
+    <string name="range_unit">%1$d to %2$d %3$s</string>
+</resources>
